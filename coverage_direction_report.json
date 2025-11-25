@@ -1,0 +1,3242 @@
+[
+  {
+    "azimuth": 0,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.51349652485533,
+    "coord_lon": 80.943377,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 1,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.513482730065686,
+    "coord_lon": 80.94503308513828,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 2,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.513441349905282,
+    "coord_lon": 80.94668866502231,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 3,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.51337239699844,
+    "coord_lon": 80.94834323455271,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 4,
+    "max_distance_m": 8520.0,
+    "max_distance_km": 8.52,
+    "coord_lat": 18.499757115666572,
+    "coord_lon": 80.94900493624769,
+    "mode": "Diffraction",
+    "loss_db": 6.072712566851987
+  },
+  {
+    "azimuth": 5,
+    "max_distance_m": 8370.0,
+    "max_distance_km": 8.37,
+    "coord_lat": 18.498301642115646,
+    "coord_lon": 80.95028484935877,
+    "mode": "Diffraction",
+    "loss_db": 3.169101800275963
+  },
+  {
+    "azimuth": 6,
+    "max_distance_m": 8370.0,
+    "max_distance_km": 8.37,
+    "coord_lat": 18.49817509095745,
+    "coord_lon": 80.9516617822255,
+    "mode": "Diffraction",
+    "loss_db": 3.0789211095481317
+  },
+  {
+    "azimuth": 7,
+    "max_distance_m": 8310.0,
+    "max_distance_km": 8.31,
+    "coord_lat": 18.49748759250678,
+    "coord_lon": 80.95296691676718,
+    "mode": "Diffraction",
+    "loss_db": 3.9627973722658547
+  },
+  {
+    "azimuth": 8,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.512615071519942,
+    "coord_lon": 80.9565832787624,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 9,
+    "max_distance_m": 8430.0,
+    "max_distance_km": 8.43,
+    "coord_lat": 18.498193512296975,
+    "coord_lon": 80.95586466201831,
+    "mode": "Diffraction",
+    "loss_db": 3.9365600184042395
+  },
+  {
+    "azimuth": 10,
+    "max_distance_m": 8460.0,
+    "max_distance_km": 8.46,
+    "coord_lat": 18.498240942993668,
+    "coord_lon": 80.95728811152885,
+    "mode": "Diffraction",
+    "loss_db": 18.418886813037624
+  },
+  {
+    "azimuth": 11,
+    "max_distance_m": 8250.0,
+    "max_distance_km": 8.25,
+    "coord_lat": 18.496135370314377,
+    "coord_lon": 80.95828326139618,
+    "mode": "Diffraction",
+    "loss_db": 21.659988401491397
+  },
+  {
+    "azimuth": 12,
+    "max_distance_m": 8130.0,
+    "max_distance_km": 8.13,
+    "coord_lat": 18.494815474046774,
+    "coord_lon": 80.95938297274074,
+    "mode": "Diffraction",
+    "loss_db": 19.080623372208024
+  },
+  {
+    "azimuth": 13,
+    "max_distance_m": 8070.0,
+    "max_distance_km": 8.07,
+    "coord_lat": 18.49400972667923,
+    "coord_lon": 80.9605668527649,
+    "mode": "Diffraction",
+    "loss_db": 2.519431789569336
+  },
+  {
+    "azimuth": 14,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.510806124009562,
+    "coord_lon": 80.96633297682146,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 15,
+    "max_distance_m": 7560.0,
+    "max_distance_km": 7.56,
+    "coord_lat": 18.488943315497913,
+    "coord_lon": 80.96190445916966,
+    "mode": "Diffraction",
+    "loss_db": 3.306888839634003
+  },
+  {
+    "azimuth": 16,
+    "max_distance_m": 7620.0,
+    "max_distance_km": 7.62,
+    "coord_lat": 18.489145686427758,
+    "coord_lon": 80.96326501297217,
+    "mode": "Diffraction",
+    "loss_db": 3.7268572860335603
+  },
+  {
+    "azimuth": 17,
+    "max_distance_m": 7500.0,
+    "max_distance_km": 7.5,
+    "coord_lat": 18.487767564650714,
+    "coord_lon": 80.96414006596625,
+    "mode": "Diffraction",
+    "loss_db": 0.8334453779914082
+  },
+  {
+    "azimuth": 18,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.50906359587943,
+    "coord_lon": 80.97269933674313,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 19,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.508562018334782,
+    "coord_lon": 80.97426977117269,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 20,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.50803435657448,
+    "coord_lon": 80.97583078135182,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 21,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.507480771564055,
+    "coord_lon": 80.97738189116492,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 22,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.50690143217545,
+    "coord_lon": 80.97892262753011,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 23,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.506296515135297,
+    "coord_lon": 80.98045252054393,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 24,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.505666204970787,
+    "coord_lon": 80.98197110362536,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 25,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.505010693953096,
+    "coord_lon": 80.98347791365845,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 26,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.504330182038522,
+    "coord_lon": 80.98497249113419,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 27,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.503624876807223,
+    "coord_lon": 80.98645438029106,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 28,
+    "max_distance_m": 6930.0,
+    "max_distance_km": 6.93,
+    "coord_lat": 18.478248653865705,
+    "coord_lon": 80.9741814500324,
+    "mode": "Diffraction",
+    "loss_db": 3.071137605900308
+  },
+  {
+    "azimuth": 29,
+    "max_distance_m": 6900.0,
+    "max_distance_km": 6.9,
+    "coord_lat": 18.477490050866177,
+    "coord_lon": 80.97505001057745,
+    "mode": "Diffraction",
+    "loss_db": 19.17828530881794
+  },
+  {
+    "azimuth": 30,
+    "max_distance_m": 6840.0,
+    "max_distance_km": 6.84,
+    "coord_lat": 18.476484724567634,
+    "coord_lon": 80.97575817498723,
+    "mode": "Diffraction",
+    "loss_db": 7.391846227947325
+  },
+  {
+    "azimuth": 31,
+    "max_distance_m": 6600.0,
+    "max_distance_km": 6.6,
+    "coord_lat": 18.474078763849878,
+    "coord_lon": 80.97556127408569,
+    "mode": "Diffraction",
+    "loss_db": 3.558643630226248
+  },
+  {
+    "azimuth": 32,
+    "max_distance_m": 6630.0,
+    "max_distance_km": 6.63,
+    "coord_lat": 18.473764668430906,
+    "coord_lon": 80.97664164499244,
+    "mode": "Diffraction",
+    "loss_db": 21.741522053288303
+  },
+  {
+    "azimuth": 33,
+    "max_distance_m": 6450.0,
+    "max_distance_km": 6.45,
+    "coord_lat": 18.471839095920533,
+    "coord_lon": 80.9766370803186,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 34,
+    "max_distance_m": 6600.0,
+    "max_distance_km": 6.6,
+    "coord_lat": 18.47240095053869,
+    "coord_lon": 80.97832013084087,
+    "mode": "Diffraction",
+    "loss_db": 22.513227264410972
+  },
+  {
+    "azimuth": 35,
+    "max_distance_m": 6330.0,
+    "max_distance_km": 6.33,
+    "coord_lat": 18.469813410064653,
+    "coord_lon": 80.9777521603174,
+    "mode": "Diffraction",
+    "loss_db": 1.5621764022441837
+  },
+  {
+    "azimuth": 36,
+    "max_distance_m": 6300.0,
+    "max_distance_km": 6.3,
+    "coord_lat": 18.4690143985979,
+    "coord_lon": 80.97843659918294,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 37,
+    "max_distance_m": 6270.0,
+    "max_distance_km": 6.27,
+    "coord_lat": 18.468206922347406,
+    "coord_lon": 80.97910232986968,
+    "mode": "Diffraction",
+    "loss_db": 4.922372659793522
+  },
+  {
+    "azimuth": 38,
+    "max_distance_m": 5760.0,
+    "max_distance_km": 5.76,
+    "coord_lat": 18.46397458749649,
+    "coord_lon": 80.97695072302736,
+    "mode": "Diffraction",
+    "loss_db": 0.9718979862482788
+  },
+  {
+    "azimuth": 39,
+    "max_distance_m": 6270.0,
+    "max_distance_km": 6.27,
+    "coord_lat": 18.46698929311323,
+    "coord_lon": 80.98073485786503,
+    "mode": "Diffraction",
+    "loss_db": 15.706328396379309
+  },
+  {
+    "azimuth": 40,
+    "max_distance_m": 5700.0,
+    "max_distance_km": 5.7,
+    "coord_lat": 18.46241602372244,
+    "coord_lon": 80.9780645379752,
+    "mode": "Diffraction",
+    "loss_db": 4.367210249513679
+  },
+  {
+    "azimuth": 41,
+    "max_distance_m": 5670.0,
+    "max_distance_km": 5.67,
+    "coord_lat": 18.461627658271073,
+    "coord_lon": 80.97859422383375,
+    "mode": "Diffraction",
+    "loss_db": 1.8809135011707596
+  },
+  {
+    "azimuth": 42,
+    "max_distance_m": 5760.0,
+    "max_distance_km": 5.76,
+    "coord_lat": 18.4616392613099,
+    "coord_lon": 80.97986604943819,
+    "mode": "Diffraction",
+    "loss_db": 13.048380649513446
+  },
+  {
+    "azimuth": 43,
+    "max_distance_m": 5670.0,
+    "max_distance_km": 5.67,
+    "coord_lat": 18.460430963786344,
+    "coord_lon": 80.97998639260345,
+    "mode": "Diffraction",
+    "loss_db": 4.1101154451450945
+  },
+  {
+    "azimuth": 44,
+    "max_distance_m": 5670.0,
+    "max_distance_km": 5.67,
+    "coord_lat": 18.45981540589732,
+    "coord_lon": 80.98066584394371,
+    "mode": "Diffraction",
+    "loss_db": 4.965600020255629
+  },
+  {
+    "azimuth": 45,
+    "max_distance_m": 5700.0,
+    "max_distance_km": 5.7,
+    "coord_lat": 18.45938023561152,
+    "coord_lon": 80.98153480210884,
+    "mode": "Diffraction",
+    "loss_db": 1.6146316311490816
+  },
+  {
+    "azimuth": 46,
+    "max_distance_m": 5730.0,
+    "max_distance_km": 5.73,
+    "coord_lat": 18.458927280623897,
+    "coord_lon": 80.98239913861093,
+    "mode": "Diffraction",
+    "loss_db": 12.082666310909064
+  },
+  {
+    "azimuth": 47,
+    "max_distance_m": 5640.0,
+    "max_distance_km": 5.64,
+    "coord_lat": 18.457717346732036,
+    "coord_lon": 80.9824274355535,
+    "mode": "Diffraction",
+    "loss_db": 1.3474496373530487
+  },
+  {
+    "azimuth": 48,
+    "max_distance_m": 9690.0,
+    "max_distance_km": 9.69,
+    "coord_lat": 18.48153696658616,
+    "coord_lon": 81.01156005385475,
+    "mode": "Diffraction",
+    "loss_db": 4.101261526245335
+  },
+  {
+    "azimuth": 49,
+    "max_distance_m": 5580.0,
+    "max_distance_km": 5.58,
+    "coord_lat": 18.456039801692818,
+    "coord_lon": 80.98324543246308,
+    "mode": "Diffraction",
+    "loss_db": 1.2157482009699434
+  },
+  {
+    "azimuth": 50,
+    "max_distance_m": 7950.0,
+    "max_distance_km": 7.95,
+    "coord_lat": 18.46912953138273,
+    "coord_lon": 81.00103626490764,
+    "mode": "Diffraction",
+    "loss_db": 0.2967426025967903
+  },
+  {
+    "azimuth": 51,
+    "max_distance_m": 6210.0,
+    "max_distance_km": 6.21,
+    "coord_lat": 18.458272476302458,
+    "coord_lon": 80.98906634219699,
+    "mode": "Diffraction",
+    "loss_db": 3.324339309163369
+  },
+  {
+    "azimuth": 52,
+    "max_distance_m": 6120.0,
+    "max_distance_km": 6.12,
+    "coord_lat": 18.45700555064418,
+    "coord_lon": 80.9890333399279,
+    "mode": "Diffraction",
+    "loss_db": 2.504171039098617
+  },
+  {
+    "azimuth": 53,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.477435204568533,
+    "coord_lon": 81.01914489757567,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 54,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.47616474408412,
+    "coord_lon": 81.02012924183732,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 55,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.474878079603865,
+    "coord_lon": 81.02109018504372,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 56,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.473575603409195,
+    "coord_lon": 81.02202743474325,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 57,
+    "max_distance_m": 9720.0,
+    "max_distance_km": 9.72,
+    "coord_lat": 18.47078252109418,
+    "coord_lon": 81.0205578994578,
+    "mode": "Diffraction",
+    "loss_db": 10.630721043786387
+  },
+  {
+    "azimuth": 58,
+    "max_distance_m": 9750.0,
+    "max_distance_km": 9.75,
+    "coord_lat": 18.469633064151033,
+    "coord_lon": 81.02166124682607,
+    "mode": "Diffraction",
+    "loss_db": 19.238850080621788
+  },
+  {
+    "azimuth": 59,
+    "max_distance_m": 9030.0,
+    "max_distance_km": 9.03,
+    "coord_lat": 18.46497394848746,
+    "coord_lon": 81.01665791920934,
+    "mode": "Diffraction",
+    "loss_db": 3.6964352011434696
+  },
+  {
+    "azimuth": 60,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.468215592972612,
+    "coord_lon": 81.02553390475742,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 61,
+    "max_distance_m": 8250.0,
+    "max_distance_km": 8.25,
+    "coord_lat": 18.45909325075936,
+    "coord_lon": 81.01168884051421,
+    "mode": "Diffraction",
+    "loss_db": 8.179545366672532
+  },
+  {
+    "azimuth": 62,
+    "max_distance_m": 8130.0,
+    "max_distance_km": 8.13,
+    "coord_lat": 18.45744117154332,
+    "coord_lon": 81.01133554931971,
+    "mode": "Diffraction",
+    "loss_db": 2.8263851315095803
+  },
+  {
+    "azimuth": 63,
+    "max_distance_m": 8190.0,
+    "max_distance_km": 8.19,
+    "coord_lat": 18.456549759057236,
+    "coord_lon": 81.01246158817884,
+    "mode": "Diffraction",
+    "loss_db": 4.024301253587609
+  },
+  {
+    "azimuth": 64,
+    "max_distance_m": 8220.0,
+    "max_distance_km": 8.22,
+    "coord_lat": 18.455512532035204,
+    "coord_lon": 81.01332024628354,
+    "mode": "Diffraction",
+    "loss_db": 3.926994712979092
+  },
+  {
+    "azimuth": 65,
+    "max_distance_m": 8250.0,
+    "max_distance_km": 8.25,
+    "coord_lat": 18.454456887613087,
+    "coord_lon": 81.01416192699128,
+    "mode": "Diffraction",
+    "loss_db": 20.346236191308492
+  },
+  {
+    "azimuth": 66,
+    "max_distance_m": 8250.0,
+    "max_distance_km": 8.25,
+    "coord_lat": 18.453272933198743,
+    "coord_lon": 81.01472671860472,
+    "mode": "Diffraction",
+    "loss_db": 3.347996524909168
+  },
+  {
+    "azimuth": 67,
+    "max_distance_m": 8190.0,
+    "max_distance_km": 8.19,
+    "coord_lat": 18.45186814193756,
+    "coord_lon": 81.01474682112006,
+    "mode": "Diffraction",
+    "loss_db": 6.2173648881293175
+  },
+  {
+    "azimuth": 68,
+    "max_distance_m": 8220.0,
+    "max_distance_km": 8.22,
+    "coord_lat": 18.450776270993043,
+    "coord_lon": 81.01552753548408,
+    "mode": "Diffraction",
+    "loss_db": 3.8206357028703097
+  },
+  {
+    "azimuth": 69,
+    "max_distance_m": 8190.0,
+    "max_distance_km": 8.19,
+    "coord_lat": 18.449473098123523,
+    "coord_lon": 81.01575961117523,
+    "mode": "Diffraction",
+    "loss_db": 3.656034235621744
+  },
+  {
+    "azimuth": 70,
+    "max_distance_m": 8220.0,
+    "max_distance_km": 8.22,
+    "coord_lat": 18.448355885568944,
+    "coord_lon": 81.01649990457989,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 71,
+    "max_distance_m": 7770.0,
+    "max_distance_km": 7.77,
+    "coord_lat": 18.44581181082869,
+    "coord_lon": 81.01292433489344,
+    "mode": "Diffraction",
+    "loss_db": 1.357556073973238
+  },
+  {
+    "azimuth": 72,
+    "max_distance_m": 7890.0,
+    "max_distance_km": 7.89,
+    "coord_lat": 18.444984409034237,
+    "coord_lon": 81.01441171768937,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 73,
+    "max_distance_m": 8160.0,
+    "max_distance_km": 8.16,
+    "coord_lat": 18.444509995224625,
+    "coord_lon": 81.01724776791221,
+    "mode": "Diffraction",
+    "loss_db": 10.043491437206395
+  },
+  {
+    "azimuth": 74,
+    "max_distance_m": 8160.0,
+    "max_distance_km": 8.16,
+    "coord_lat": 18.44327615012042,
+    "coord_lon": 81.01763014210538,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 75,
+    "max_distance_m": 8280.0,
+    "max_distance_km": 8.28,
+    "coord_lat": 18.442316288166364,
+    "coord_lon": 81.01908726124778,
+    "mode": "Diffraction",
+    "loss_db": 3.124133698819377
+  },
+  {
+    "azimuth": 76,
+    "max_distance_m": 8340.0,
+    "max_distance_km": 8.34,
+    "coord_lat": 18.441183052763503,
+    "coord_lon": 81.01998038362424,
+    "mode": "Diffraction",
+    "loss_db": 2.776988652286227
+  },
+  {
+    "azimuth": 77,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.443311621669803,
+    "coord_lon": 81.03579887827858,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 78,
+    "max_distance_m": 7290.0,
+    "max_distance_km": 7.29,
+    "coord_lat": 18.436651563057765,
+    "coord_lon": 81.01087615306386,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 79,
+    "max_distance_m": 7320.0,
+    "max_distance_km": 7.32,
+    "coord_lat": 18.435576671336538,
+    "coord_lon": 81.01139460879452,
+    "mode": "Diffraction",
+    "loss_db": 12.559595220925551
+  },
+  {
+    "azimuth": 80,
+    "max_distance_m": 7320.0,
+    "max_distance_km": 7.32,
+    "coord_lat": 18.43444168969855,
+    "coord_lon": 81.01161454484372,
+    "mode": "Diffraction",
+    "loss_db": 15.649358376575178
+  },
+  {
+    "azimuth": 81,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.4371084189223,
+    "coord_lon": 81.03705879562584,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 82,
+    "max_distance_m": 7170.0,
+    "max_distance_km": 7.17,
+    "coord_lat": 18.4319734966939,
+    "coord_lon": 81.01058586892547,
+    "mode": "Diffraction",
+    "loss_db": 2.8803671185290094
+  },
+  {
+    "azimuth": 83,
+    "max_distance_m": 7080.0,
+    "max_distance_km": 7.08,
+    "coord_lat": 18.430753739900734,
+    "coord_lon": 81.0098944452222,
+    "mode": "Diffraction",
+    "loss_db": 2.9305181546202306
+  },
+  {
+    "azimuth": 84,
+    "max_distance_m": 7680.0,
+    "max_distance_km": 7.68,
+    "coord_lat": 18.430209041218703,
+    "coord_lon": 81.01567491893454,
+    "mode": "Diffraction",
+    "loss_db": 12.795054389410137
+  },
+  {
+    "azimuth": 85,
+    "max_distance_m": 7770.0,
+    "max_distance_km": 7.77,
+    "coord_lat": 18.42907411593883,
+    "coord_lon": 81.01664471097936,
+    "mode": "Diffraction",
+    "loss_db": 7.016703107321524
+  },
+  {
+    "azimuth": 86,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.42926127252891,
+    "coord_lon": 81.03799121007854,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 87,
+    "max_distance_m": 5700.0,
+    "max_distance_km": 5.7,
+    "coord_lat": 18.4256575218182,
+    "coord_lon": 80.99725581797391,
+    "mode": "Diffraction",
+    "loss_db": 2.7823278330673142
+  },
+  {
+    "azimuth": 88,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.42610569339643,
+    "coord_lon": 81.03816274242239,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 89,
+    "max_distance_m": 7020.0,
+    "max_distance_km": 7.02,
+    "coord_lat": 18.424065266220392,
+    "coord_lon": 81.0098133503008,
+    "mode": "Diffraction",
+    "loss_db": 4.679294884227277
+  },
+  {
+    "azimuth": 90,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.422946321594655,
+    "coord_lon": 81.03821878689119,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 91,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.42136641630448,
+    "coord_lon": 81.0382034763109,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 92,
+    "max_distance_m": 7110.0,
+    "max_distance_km": 7.11,
+    "coord_lat": 18.420716281851195,
+    "coord_lon": 81.01063305038484,
+    "mode": "Diffraction",
+    "loss_db": 6.301852414551133
+  },
+  {
+    "azimuth": 93,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.41820857303112,
+    "coord_lon": 81.03808621679188,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 94,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.416631596902747,
+    "coord_lon": 81.03798430514908,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 95,
+    "max_distance_m": 5100.0,
+    "max_distance_km": 5.1,
+    "coord_lat": 18.418948072297752,
+    "coord_lon": 80.99146496073615,
+    "mode": "Diffraction",
+    "loss_db": 3.713747056098334
+  },
+  {
+    "azimuth": 96,
+    "max_distance_m": 5190.0,
+    "max_distance_km": 5.19,
+    "coord_lat": 18.418062406826966,
+    "coord_lon": 80.99223114791074,
+    "mode": "Diffraction",
+    "loss_db": 21.088110398403494
+  },
+  {
+    "azimuth": 97,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.411914212089272,
+    "coord_lon": 81.03750585090766,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 98,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.41034786140762,
+    "coord_lon": 81.03728895757764,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 99,
+    "max_distance_m": 5040.0,
+    "max_distance_km": 5.04,
+    "coord_lat": 18.415840986384836,
+    "coord_lon": 80.99049258910702,
+    "mode": "Diffraction",
+    "loss_db": 13.325886469134574
+  },
+  {
+    "azimuth": 100,
+    "max_distance_m": 5790.0,
+    "max_distance_km": 5.79,
+    "coord_lat": 18.413878708659922,
+    "coord_lon": 80.99734536528752,
+    "mode": "Diffraction",
+    "loss_db": 6.447129845083163
+  },
+  {
+    "azimuth": 101,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.40567381950971,
+    "coord_lon": 81.03646698731923,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 102,
+    "max_distance_m": 5010.0,
+    "max_distance_km": 5.01,
+    "coord_lat": 18.413553526579157,
+    "coord_lon": 80.98975911443999,
+    "mode": "Diffraction",
+    "loss_db": 20.984987455737176
+  },
+  {
+    "azimuth": 103,
+    "max_distance_m": 5040.0,
+    "max_distance_km": 5.04,
+    "coord_lat": 18.412721270666356,
+    "coord_lon": 80.98985643120521,
+    "mode": "Diffraction",
+    "loss_db": 14.966230984098816
+  },
+  {
+    "azimuth": 104,
+    "max_distance_m": 4770.0,
+    "max_distance_km": 4.77,
+    "coord_lat": 18.412539278818464,
+    "coord_lon": 80.98718247318413,
+    "mode": "Diffraction",
+    "loss_db": 1.4720273973129947
+  },
+  {
+    "azimuth": 105,
+    "max_distance_m": 4830.0,
+    "max_distance_km": 4.83,
+    "coord_lat": 18.411670711111594,
+    "coord_lon": 80.98753349655274,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 106,
+    "max_distance_m": 5190.0,
+    "max_distance_km": 5.19,
+    "coord_lat": 18.410039567074737,
+    "coord_lon": 80.99059511043106,
+    "mode": "Diffraction",
+    "loss_db": 8.204798826383577
+  },
+  {
+    "azimuth": 107,
+    "max_distance_m": 4890.0,
+    "max_distance_km": 4.89,
+    "coord_lat": 18.41004805142289,
+    "coord_lon": 80.9876363268263,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 108,
+    "max_distance_m": 5220.0,
+    "max_distance_km": 5.22,
+    "coord_lat": 18.408390705054753,
+    "coord_lon": 80.99036341405251,
+    "mode": "Diffraction",
+    "loss_db": 1.2822474285794145
+  },
+  {
+    "azimuth": 109,
+    "max_distance_m": 5250.0,
+    "max_distance_km": 5.25,
+    "coord_lat": 18.40752189835299,
+    "coord_lon": 80.99035804392587,
+    "mode": "Diffraction",
+    "loss_db": 1.0073404302793243
+  },
+  {
+    "azimuth": 110,
+    "max_distance_m": 5700.0,
+    "max_distance_km": 5.7,
+    "coord_lat": 18.40535008234361,
+    "coord_lon": 80.99407006145948,
+    "mode": "Diffraction",
+    "loss_db": 19.447797748863493
+  },
+  {
+    "azimuth": 111,
+    "max_distance_m": 5730.0,
+    "max_distance_km": 5.73,
+    "coord_lat": 18.404411097299953,
+    "coord_lon": 80.99400512605146,
+    "mode": "Diffraction",
+    "loss_db": 17.839087060475073
+  },
+  {
+    "azimuth": 112,
+    "max_distance_m": 5670.0,
+    "max_distance_km": 5.67,
+    "coord_lat": 18.40377374395031,
+    "coord_lon": 80.99313155129215,
+    "mode": "Diffraction",
+    "loss_db": 5.327432242517098
+  },
+  {
+    "azimuth": 113,
+    "max_distance_m": 5730.0,
+    "max_distance_km": 5.73,
+    "coord_lat": 18.40273589149116,
+    "coord_lon": 80.9932955540203,
+    "mode": "Diffraction",
+    "loss_db": 8.154631059909937
+  },
+  {
+    "azimuth": 114,
+    "max_distance_m": 5760.0,
+    "max_distance_km": 5.76,
+    "coord_lat": 18.401797099128803,
+    "coord_lon": 80.99317725699727,
+    "mode": "Diffraction",
+    "loss_db": 7.050860754010016
+  },
+  {
+    "azimuth": 115,
+    "max_distance_m": 5910.0,
+    "max_distance_km": 5.91,
+    "coord_lat": 18.400397659823717,
+    "coord_lon": 80.99406890608765,
+    "mode": "Diffraction",
+    "loss_db": 9.738157971924972
+  },
+  {
+    "azimuth": 116,
+    "max_distance_m": 5580.0,
+    "max_distance_km": 5.58,
+    "coord_lat": 18.400864346320354,
+    "coord_lon": 80.99084172670216,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 117,
+    "max_distance_m": 5580.0,
+    "max_distance_km": 5.58,
+    "coord_lat": 18.40007702506075,
+    "coord_lon": 80.99043025885506,
+    "mode": "Diffraction",
+    "loss_db": 1.7387972826196938
+  },
+  {
+    "azimuth": 118,
+    "max_distance_m": 5790.0,
+    "max_distance_km": 5.79,
+    "coord_lat": 18.39840552208757,
+    "coord_lon": 80.9917590119772,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 119,
+    "max_distance_m": 5790.0,
+    "max_distance_km": 5.79,
+    "coord_lat": 18.39760329450061,
+    "coord_lon": 80.99130245504591,
+    "mode": "Diffraction",
+    "loss_db": 1.4666251433387334
+  },
+  {
+    "azimuth": 120,
+    "max_distance_m": 6000.0,
+    "max_distance_km": 6.0,
+    "coord_lat": 18.395859718547662,
+    "coord_lon": 80.99255217724557,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 121,
+    "max_distance_m": 6000.0,
+    "max_distance_km": 6.0,
+    "coord_lat": 18.395044665493458,
+    "coord_lon": 80.9920489620934,
+    "mode": "Diffraction",
+    "loss_db": 1.2657124436142295
+  },
+  {
+    "azimuth": 122,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.374980890682515,
+    "coord_lon": 81.02378512734428,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 123,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.373648722451293,
+    "coord_lon": 81.02289538107469,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 124,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.372331578577526,
+    "coord_lon": 81.02198143343249,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 125,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.371029859935053,
+    "coord_lon": 81.02104356312056,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 126,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.369743962694223,
+    "coord_lon": 81.02008205610335,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 127,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.368474278201724,
+    "coord_lon": 81.01909720551933,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 128,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.367221192861745,
+    "coord_lon": 81.01808931159145,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 129,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.36598508801872,
+    "coord_lon": 81.01705868153543,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 130,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.36476633984162,
+    "coord_lon": 81.0160056294659,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 131,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.36356531920977,
+    "coord_lon": 81.01493047630052,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 132,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.362382391600345,
+    "coord_lon": 81.01383354966205,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 133,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.361217916977488,
+    "coord_lon": 81.01271518377844,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 134,
+    "max_distance_m": 7080.0,
+    "max_distance_km": 7.08,
+    "coord_lat": 18.378529855143462,
+    "coord_lon": 80.991570444913,
+    "mode": "Diffraction",
+    "loss_db": 3.8125619984892944
+  },
+  {
+    "azimuth": 135,
+    "max_distance_m": 7230.0,
+    "max_distance_km": 7.23,
+    "coord_lat": 18.376775268905245,
+    "coord_lon": 80.99175406625025,
+    "mode": "Diffraction",
+    "loss_db": 24.673057211251724
+  },
+  {
+    "azimuth": 136,
+    "max_distance_m": 7200.0,
+    "max_distance_km": 7.2,
+    "coord_lat": 18.376171434054502,
+    "coord_lon": 80.99070503627298,
+    "mode": "Diffraction",
+    "loss_db": 3.7019583560257683
+  },
+  {
+    "azimuth": 137,
+    "max_distance_m": 7110.0,
+    "max_distance_km": 7.11,
+    "coord_lat": 18.37598496681158,
+    "coord_lon": 80.9892616242099,
+    "mode": "Diffraction",
+    "loss_db": 21.331832525504918
+  },
+  {
+    "azimuth": 138,
+    "max_distance_m": 6990.0,
+    "max_distance_km": 6.99,
+    "coord_lat": 18.3760336199556,
+    "coord_lon": 80.98763608595948,
+    "mode": "Diffraction",
+    "loss_db": 19.76616385905212
+  },
+  {
+    "azimuth": 139,
+    "max_distance_m": 6900.0,
+    "max_distance_km": 6.9,
+    "coord_lat": 18.37591727442365,
+    "coord_lon": 80.98621272142753,
+    "mode": "Diffraction",
+    "loss_db": 3.9475060054331967
+  },
+  {
+    "azimuth": 140,
+    "max_distance_m": 6930.0,
+    "max_distance_km": 6.93,
+    "coord_lat": 18.37500319201829,
+    "coord_lon": 80.9855284500795,
+    "mode": "Diffraction",
+    "loss_db": 2.945175270476721
+  },
+  {
+    "azimuth": 141,
+    "max_distance_m": 8130.0,
+    "max_distance_km": 8.13,
+    "coord_lat": 18.365881116999965,
+    "coord_lon": 80.9917888071895,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 142,
+    "max_distance_m": 8550.0,
+    "max_distance_km": 8.55,
+    "coord_lat": 18.36209255724735,
+    "coord_lon": 80.99318367547957,
+    "mode": "Diffraction",
+    "loss_db": 1.3078726831129934
+  },
+  {
+    "azimuth": 143,
+    "max_distance_m": 8610.0,
+    "max_distance_km": 8.61,
+    "coord_lat": 18.36083910880552,
+    "coord_lon": 80.99240481053266,
+    "mode": "Diffraction",
+    "loss_db": 4.174334706299096
+  },
+  {
+    "azimuth": 144,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.34972370527245,
+    "coord_lon": 80.99910005423828,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 145,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.348806593186573,
+    "coord_lon": 80.9977527466668,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 146,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.347912064680564,
+    "coord_lon": 80.99638889694977,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 147,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.3470403918919,
+    "coord_lon": 80.99500892024466,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 148,
+    "max_distance_m": 8610.0,
+    "max_distance_km": 8.61,
+    "coord_lat": 18.356996791079624,
+    "coord_lon": 80.98654675293946,
+    "mode": "Diffraction",
+    "loss_db": 3.4454096292848986
+  },
+  {
+    "azimuth": 149,
+    "max_distance_m": 7830.0,
+    "max_distance_km": 7.83,
+    "coord_lat": 18.36232899791943,
+    "coord_lon": 80.98153460856494,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 150,
+    "max_distance_m": 7890.0,
+    "max_distance_km": 7.89,
+    "coord_lat": 18.361233070701832,
+    "coord_lon": 80.98070410550835,
+    "mode": "Diffraction",
+    "loss_db": 1.5831593973905527
+  },
+  {
+    "azimuth": 151,
+    "max_distance_m": 7980.0,
+    "max_distance_km": 7.98,
+    "coord_lat": 18.359909405322924,
+    "coord_lon": 80.97998264921557,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 152,
+    "max_distance_m": 8040.0,
+    "max_distance_km": 8.04,
+    "coord_lat": 18.35883053181201,
+    "coord_lon": 80.97909084687231,
+    "mode": "Diffraction",
+    "loss_db": 2.8044489406456723
+  },
+  {
+    "azimuth": 153,
+    "max_distance_m": 8310.0,
+    "max_distance_km": 8.31,
+    "coord_lat": 18.356071652575114,
+    "coord_lon": 80.9790723936588,
+    "mode": "Diffraction",
+    "loss_db": 12.272493497651045
+  },
+  {
+    "azimuth": 154,
+    "max_distance_m": 8820.0,
+    "max_distance_km": 8.82,
+    "coord_lat": 18.351345443425327,
+    "coord_lon": 80.97995863451726,
+    "mode": "Diffraction",
+    "loss_db": 17.808638623265672
+  },
+  {
+    "azimuth": 155,
+    "max_distance_m": 8070.0,
+    "max_distance_km": 8.07,
+    "coord_lat": 18.356888642979406,
+    "coord_lon": 80.97564620199557,
+    "mode": "Diffraction",
+    "loss_db": 11.937898569890972
+  },
+  {
+    "azimuth": 156,
+    "max_distance_m": 8520.0,
+    "max_distance_km": 8.52,
+    "coord_lat": 18.352646735717386,
+    "coord_lon": 80.97616453069907,
+    "mode": "Diffraction",
+    "loss_db": 4.150168116704734
+  },
+  {
+    "azimuth": 157,
+    "max_distance_m": 8370.0,
+    "max_distance_km": 8.37,
+    "coord_lat": 18.353358813141753,
+    "coord_lon": 80.97431990378261,
+    "mode": "Diffraction",
+    "loss_db": 1.5617475097799014
+  },
+  {
+    "azimuth": 158,
+    "max_distance_m": 9480.0,
+    "max_distance_km": 9.48,
+    "coord_lat": 18.343555017850363,
+    "coord_lon": 80.97697526280554,
+    "mode": "Diffraction",
+    "loss_db": 5.4064884316918755
+  },
+  {
+    "azimuth": 159,
+    "max_distance_m": 9420.0,
+    "max_distance_km": 9.42,
+    "coord_lat": 18.343513521376625,
+    "coord_lon": 80.9753153906773,
+    "mode": "Diffraction",
+    "loss_db": 4.049560419231952
+  },
+  {
+    "azimuth": 160,
+    "max_distance_m": 9360.0,
+    "max_distance_km": 9.36,
+    "coord_lat": 18.343502992286837,
+    "coord_lon": 80.97366429385288,
+    "mode": "Diffraction",
+    "loss_db": 19.372288309618256
+  },
+  {
+    "azimuth": 161,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.33737219158563,
+    "coord_lon": 80.97423922568325,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 162,
+    "max_distance_m": 5760.0,
+    "max_distance_km": 5.76,
+    "coord_lat": 18.373476668859805,
+    "coord_lon": 80.9602197425051,
+    "mode": "Diffraction",
+    "loss_db": 5.541802727093785
+  },
+  {
+    "azimuth": 163,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.336396227493545,
+    "coord_lon": 80.97109221321273,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 164,
+    "max_distance_m": 5730.0,
+    "max_distance_km": 5.73,
+    "coord_lat": 18.373206293442305,
+    "coord_lon": 80.95832213978247,
+    "mode": "Diffraction",
+    "loss_db": 23.401305305984764
+  },
+  {
+    "azimuth": 165,
+    "max_distance_m": 5760.0,
+    "max_distance_km": 5.76,
+    "coord_lat": 18.37270309690956,
+    "coord_lon": 80.95748367750527,
+    "mode": "Diffraction",
+    "loss_db": 18.93928602632075
+  },
+  {
+    "azimuth": 166,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.33513029295702,
+    "coord_lon": 80.96630968440948,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 167,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.334761639323784,
+    "coord_lon": 80.96470090940437,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 168,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.334419841616786,
+    "coord_lon": 80.96308564882321,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 169,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.3341050037952,
+    "coord_lon": 80.9614643939758,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 170,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.333817221617693,
+    "coord_lon": 80.95983763798678,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 171,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.333556582613472,
+    "coord_lon": 80.95820587564619,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 172,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.33332316605575,
+    "coord_lon": 80.95656960325972,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 173,
+    "max_distance_m": 8040.0,
+    "max_distance_km": 8.04,
+    "coord_lat": 18.35087254038142,
+    "coord_lon": 80.9526474730078,
+    "mode": "Diffraction",
+    "loss_db": 2.088291938013014
+  },
+  {
+    "azimuth": 174,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.332938275951214,
+    "coord_lon": 80.95328552024806,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 175,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.332786919467438,
+    "coord_lon": 80.95163870845793,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 176,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.33266301952076,
+    "coord_lon": 80.94998938398967,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 177,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.332566613794683,
+    "coord_lon": 80.94833804846556,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 178,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.33249773161043,
+    "coord_lon": 80.94668520411662,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 179,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.33245639391807,
+    "coord_lon": 80.94503135363064,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 180,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.332442613290198,
+    "coord_lon": 80.943377,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 181,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.33245639391807,
+    "coord_lon": 80.94172264636936,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 182,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.33249773161043,
+    "coord_lon": 80.94006879588338,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 183,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.332566613794683,
+    "coord_lon": 80.93841595153444,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 184,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.33266301952076,
+    "coord_lon": 80.93676461601032,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 185,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.332786919467438,
+    "coord_lon": 80.93511529154206,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 186,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.332938275951214,
+    "coord_lon": 80.93346847975194,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 187,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.333117042937754,
+    "coord_lon": 80.93182468150155,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 188,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.33332316605575,
+    "coord_lon": 80.93018439674027,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 189,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.333556582613472,
+    "coord_lon": 80.92854812435381,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 190,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.333817221617693,
+    "coord_lon": 80.92691636201322,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 191,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.3341050037952,
+    "coord_lon": 80.9252896060242,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 192,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.334419841616786,
+    "coord_lon": 80.92366835117679,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 193,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.334761639323784,
+    "coord_lon": 80.92205309059563,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 194,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.33513029295702,
+    "coord_lon": 80.92044431559052,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 195,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.335525690388316,
+    "coord_lon": 80.91884251550768,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 196,
+    "max_distance_m": 7350.0,
+    "max_distance_km": 7.35,
+    "coord_lat": 18.35913671333253,
+    "coord_lon": 80.9242080876724,
+    "mode": "Diffraction",
+    "loss_db": 0.8955903611949223
+  },
+  {
+    "azimuth": 197,
+    "max_distance_m": 7230.0,
+    "max_distance_km": 7.23,
+    "coord_lat": 18.360502582534433,
+    "coord_lon": 80.92337611958338,
+    "mode": "Diffraction",
+    "loss_db": 0.7442602011494817
+  },
+  {
+    "azimuth": 198,
+    "max_distance_m": 7140.0,
+    "max_distance_km": 7.14,
+    "coord_lat": 18.361618632088444,
+    "coord_lon": 80.92250044443597,
+    "mode": "Diffraction",
+    "loss_db": 0.5264737471735916
+  },
+  {
+    "azimuth": 199,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.33737219158563,
+    "coord_lon": 80.91251477431675,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 200,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.33789934268373,
+    "coord_lon": 80.91095510997528,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 201,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.338452395334908,
+    "coord_lon": 80.90940530714502,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 202,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.339031181315818,
+    "coord_lon": 80.90786583731554,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 203,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.33963552457407,
+    "coord_lon": 80.90633716884716,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 204,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.34026524128155,
+    "coord_lon": 80.90481976682902,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 205,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.340920139890116,
+    "coord_lon": 80.90331409293812,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 206,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.34160002118959,
+    "coord_lon": 80.90182060529924,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 207,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.342304678368144,
+    "coord_lon": 80.9003397583461,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 208,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.34303389707491,
+    "coord_lon": 80.89887200268359,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 209,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.34378745548494,
+    "coord_lon": 80.89741778495092,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 210,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.344565124366408,
+    "coord_lon": 80.8959775476863,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 211,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.345366667150035,
+    "coord_lon": 80.89455172919253,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 212,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.34619184000083,
+    "coord_lon": 80.89314076340409,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 213,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.3470403918919,
+    "coord_lon": 80.89174507975534,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 214,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.347912064680564,
+    "coord_lon": 80.89036510305023,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 215,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.348806593186573,
+    "coord_lon": 80.88900125333319,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 216,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.34972370527245,
+    "coord_lon": 80.88765394576171,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 217,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.350663121926004,
+    "coord_lon": 80.88632359048013,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 218,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.351624557344884,
+    "coord_lon": 80.88501059249504,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 219,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.35260771902319,
+    "coord_lon": 80.88371535155215,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 220,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.353612307840173,
+    "coord_lon": 80.88243826201493,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 221,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.35463801815088,
+    "coord_lon": 80.88117971274451,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 222,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.355684537878847,
+    "coord_lon": 80.87994008698155,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 223,
+    "max_distance_m": 5280.0,
+    "max_distance_km": 5.28,
+    "coord_lat": 18.388079241064855,
+    "coord_lon": 80.90929996498504,
+    "mode": "Diffraction",
+    "loss_db": 0.30868985345845257
+  },
+  {
+    "azimuth": 224,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.357838725692723,
+    "coord_lon": 80.8775191101403,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 225,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.35894573832925,
+    "coord_lon": 80.8763384964001,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 226,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.36007224968307,
+    "coord_lon": 80.87517828061914,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 227,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.361217916977488,
+    "coord_lon": 80.87403881622156,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 228,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.362382391600345,
+    "coord_lon": 80.87292045033794,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 229,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.36356531920977,
+    "coord_lon": 80.87182352369948,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 230,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.36476633984162,
+    "coord_lon": 80.8707483705341,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 231,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.36598508801872,
+    "coord_lon": 80.86969531846457,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 232,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.367221192861745,
+    "coord_lon": 80.86866468840854,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 233,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.368474278201724,
+    "coord_lon": 80.86765679448067,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 234,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.369743962694223,
+    "coord_lon": 80.86667194389665,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 235,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.371029859935053,
+    "coord_lon": 80.86571043687944,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 236,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.372331578577526,
+    "coord_lon": 80.86477256656751,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 237,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.373648722451293,
+    "coord_lon": 80.8638586189253,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 238,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.374980890682515,
+    "coord_lon": 80.86296887265571,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 239,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.37632767781564,
+    "coord_lon": 80.86210359911489,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 240,
+    "max_distance_m": 7830.0,
+    "max_distance_km": 7.83,
+    "coord_lat": 18.387588536513366,
+    "coord_lon": 80.87920645642025,
+    "mode": "Diffraction",
+    "loss_db": 7.2219664950207
+  },
+  {
+    "azimuth": 241,
+    "max_distance_m": 7830.0,
+    "max_distance_km": 7.83,
+    "coord_lat": 18.388662908593286,
+    "coord_lon": 80.87856923597451,
+    "mode": "Diffraction",
+    "loss_db": 2.322014899223772
+  },
+  {
+    "azimuth": 242,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.38045163193916,
+    "coord_lon": 80.85965721649613,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 243,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.38185275282611,
+    "coord_lon": 80.85889239763632,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 244,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.383266400966324,
+    "coord_lon": 80.85815329525606,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 245,
+    "max_distance_m": 7950.0,
+    "max_distance_km": 7.95,
+    "coord_lat": 18.392603041864593,
+    "coord_lon": 80.87519044745626,
+    "mode": "Diffraction",
+    "loss_db": 2.303207567878257
+  },
+  {
+    "azimuth": 246,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.386129554055515,
+    "coord_lon": 80.85675313449524,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 247,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.387578187429032,
+    "coord_lon": 80.85609250362721,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 248,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.38903760516967,
+    "coord_lon": 80.85545844413241,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 249,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.390507362987385,
+    "coord_lon": 80.85485114970761,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 250,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.39198701343321,
+    "coord_lon": 80.854270805916,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 251,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.393476106035237,
+    "coord_lon": 80.8537175901298,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 252,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.394974187435565,
+    "coord_lon": 80.85319167147577,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 253,
+    "max_distance_m": 9000.0,
+    "max_distance_km": 9.0,
+    "coord_lat": 18.399179287766874,
+    "coord_lon": 80.86192322652361,
+    "mode": "Diffraction",
+    "loss_db": 2.810992322914177
+  },
+  {
+    "azimuth": 254,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.39799548959711,
+    "coord_lon": 80.85222236053171,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 255,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.39951779045694,
+    "coord_lon": 80.85177926480928,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 256,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.40104724059197,
+    "coord_lon": 80.85136405926214,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 257,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.40258337429775,
+    "coord_lon": 80.85097687105545,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 258,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.40412572382256,
+    "coord_lon": 80.85061781883311,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 259,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.40567381950971,
+    "coord_lon": 80.85028701268077,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 260,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.407227189940393,
+    "coord_lon": 80.84998455409142,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 261,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.408785362077115,
+    "coord_lon": 80.84971053593362,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 262,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.41034786140762,
+    "coord_lon": 80.84946504242235,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 263,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.411914212089272,
+    "coord_lon": 80.84924814909233,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 264,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.41348393709387,
+    "coord_lon": 80.84905992277426,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 265,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.41505655835284,
+    "coord_lon": 80.84890042157338,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 266,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.416631596902747,
+    "coord_lon": 80.84876969485092,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 267,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.41820857303112,
+    "coord_lon": 80.84866778320811,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 268,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.419787006422435,
+    "coord_lon": 80.84859471847287,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 269,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.42136641630448,
+    "coord_lon": 80.8485505236891,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 270,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.422946321594655,
+    "coord_lon": 80.8485352131088,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 271,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.42452624104653,
+    "coord_lon": 80.84854879218669,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 272,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.42610569339643,
+    "coord_lon": 80.84859125757761,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 273,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.42768419751003,
+    "coord_lon": 80.84866259713655,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 274,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.42926127252891,
+    "coord_lon": 80.84876278992145,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 275,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.430836438017117,
+    "coord_lon": 80.84889180619857,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 276,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.4324092141075,
+    "coord_lon": 80.84904960745057,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 277,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.433979121647987,
+    "coord_lon": 80.84923614638734,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 278,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.43554568234761,
+    "coord_lon": 80.84945136695943,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 279,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.4371084189223,
+    "coord_lon": 80.84969520437416,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 280,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.43866685524038,
+    "coord_lon": 80.84996758511446,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 281,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.44022051646773,
+    "coord_lon": 80.85026842696031,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 282,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.441768929212568,
+    "coord_lon": 80.85059763901292,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 283,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.443311621669803,
+    "coord_lon": 80.85095512172141,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 284,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.44484812376494,
+    "coord_lon": 80.85134076691234,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 285,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.446377967297437,
+    "coord_lon": 80.85175445782176,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 286,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.447900686083532,
+    "coord_lon": 80.85219606912986,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 287,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.449415816098472,
+    "coord_lon": 80.85266546699837,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 288,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.450922895618096,
+    "coord_lon": 80.85316250911042,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 289,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.452421465359688,
+    "coord_lon": 80.85368704471314,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 290,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.45391106862216,
+    "coord_lon": 80.85423891466276,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 291,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.45539125142545,
+    "coord_lon": 80.85481795147227,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 292,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.456861562649067,
+    "coord_lon": 80.85542397936173,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 293,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.45832155416981,
+    "coord_lon": 80.85605681431107,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 294,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.45977078099858,
+    "coord_lon": 80.85671626411545,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 295,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.461208801416223,
+    "coord_lon": 80.85740212844303,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 296,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.462635177108453,
+    "coord_lon": 80.85811419889542,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 297,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.46404947329968,
+    "coord_lon": 80.85885225907049,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 298,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.465451258885796,
+    "coord_lon": 80.85961608462765,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 299,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.466840106565858,
+    "coord_lon": 80.86040544335562,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 300,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.468215592972612,
+    "coord_lon": 80.86122009524257,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 301,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.469577298801845,
+    "coord_lon": 80.86205979254879,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 302,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.47092480894048,
+    "coord_lon": 80.86292427988153,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 303,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.47225771259346,
+    "coord_lon": 80.86381329427232,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 304,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.473575603409195,
+    "coord_lon": 80.86472656525675,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 305,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.474878079603865,
+    "coord_lon": 80.86566381495628,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 306,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.47616474408412,
+    "coord_lon": 80.86662475816267,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 307,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.477435204568533,
+    "coord_lon": 80.86760910242432,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 308,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.478689073707493,
+    "coord_lon": 80.8686165481352,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 309,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.479925969201602,
+    "coord_lon": 80.86964678862564,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 310,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.481145513918648,
+    "coord_lon": 80.87069951025569,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 311,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.482347336008807,
+    "coord_lon": 80.87177439251026,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 312,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.48353106901847,
+    "coord_lon": 80.87287110809666,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 313,
+    "max_distance_m": 6720.0,
+    "max_distance_km": 6.72,
+    "coord_lat": 18.46437016234457,
+    "coord_lon": 80.89684702975732,
+    "mode": "Diffraction",
+    "loss_db": 6.350725442971262
+  },
+  {
+    "azimuth": 314,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.485842829633377,
+    "coord_lon": 80.87512869680529,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 315,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.48697015231244,
+    "coord_lon": 80.87628888236011,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 316,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.48807797627429,
+    "coord_lon": 80.87746952632122,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 317,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.489165963693214,
+    "coord_lon": 80.87867026904172,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 318,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.490233782786294,
+    "coord_lon": 80.87989074472468,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 319,
+    "max_distance_m": 7860.0,
+    "max_distance_km": 7.86,
+    "coord_lat": 18.47655712992311,
+    "coord_lon": 80.89455313619953,
+    "mode": "Diffraction",
+    "loss_db": 2.884581096665805
+  },
+  {
+    "azimuth": 320,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.49230761968451,
+    "coord_lon": 80.88238940171087,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 321,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.493313005042104,
+    "coord_lon": 80.88366682168272,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 322,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.494296957372296,
+    "coord_lon": 80.88496245218646,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 323,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.495259176591045,
+    "coord_lon": 80.88627589838404,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 324,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.496199369237523,
+    "coord_lon": 80.88760675998364,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 325,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.497117248563935,
+    "coord_lon": 80.88895463136181,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 326,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.498012534623317,
+    "coord_lon": 80.89031910168733,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 327,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.49888495435526,
+    "coord_lon": 80.89169975504662,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 328,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.49973424166945,
+    "coord_lon": 80.89309617057079,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 329,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.50056013752721,
+    "coord_lon": 80.89450792256426,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 330,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.501362390020777,
+    "coord_lon": 80.8959345806348,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 331,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.502140754450476,
+    "coord_lon": 80.89737570982506,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 332,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.502894993399607,
+    "coord_lon": 80.89883087074554,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 333,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.503624876807223,
+    "coord_lon": 80.90029961970893,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 334,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.504330182038522,
+    "coord_lon": 80.90178150886581,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 335,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.505010693953096,
+    "coord_lon": 80.90327608634155,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 336,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.505666204970787,
+    "coord_lon": 80.90478289637464,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 337,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.506296515135297,
+    "coord_lon": 80.90630147945606,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 338,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.50690143217545,
+    "coord_lon": 80.90783137246989,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 339,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.507480771564055,
+    "coord_lon": 80.90937210883507,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 340,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.50803435657448,
+    "coord_lon": 80.91092321864818,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 341,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.508562018334782,
+    "coord_lon": 80.91248422882731,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 342,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.50906359587943,
+    "coord_lon": 80.91405466325686,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 343,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.509538936198652,
+    "coord_lon": 80.91563404293342,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 344,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.5099878942853,
+    "coord_lon": 80.9172218861123,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 345,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.510410333179284,
+    "coord_lon": 80.91881770845521,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 346,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.510806124009562,
+    "coord_lon": 80.92042102317853,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 347,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.511175146033604,
+    "coord_lon": 80.92203134120247,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 348,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.5115172866744,
+    "coord_lon": 80.92364817130085,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 349,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.51183244155497,
+    "coord_lon": 80.92527102025163,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 350,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.51212051453034,
+    "coord_lon": 80.92689939298805,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 351,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.51238141771703,
+    "coord_lon": 80.92853279275025,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 352,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.512615071519942,
+    "coord_lon": 80.9301707212376,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 353,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.512821404656815,
+    "coord_lon": 80.93181267876135,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 354,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.513000354180022,
+    "coord_lon": 80.93345816439775,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 355,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.51315186549588,
+    "coord_lon": 80.93510667614161,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 356,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.513275892381408,
+    "coord_lon": 80.9367577110602,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 357,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.51337239699844,
+    "coord_lon": 80.93841076544729,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 358,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.513441349905282,
+    "coord_lon": 80.94006533497769,
+    "mode": "LOS",
+    "loss_db": 0.0
+  },
+  {
+    "azimuth": 359,
+    "max_distance_m": 10020.0,
+    "max_distance_km": 10.02,
+    "coord_lat": 18.513482730065686,
+    "coord_lon": 80.94172091486172,
+    "mode": "LOS",
+    "loss_db": 0.0
+  }
+]
