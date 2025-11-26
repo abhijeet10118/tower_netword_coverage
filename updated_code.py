@@ -1,3 +1,4 @@
+
 import math
 import json
 import numpy as np
@@ -41,6 +42,14 @@ def fresnel_radius_freq(freq_hz, d1, d2):
 def earth_bulge(d, D):
     # d*(D-d)/(2*R_eff)
     return d * (D - d) / (2.0 * R_EFF)
+
+# -----------------------------
+# FSPL helper: compute max distance (km) from FSPL limit and frequency (MHz)
+# FSPL(dB) = 20*log10(d_km) + 20*log10(f_MHz) + 32.45
+# => d_km = 10^((FSPL - 20*log10(f_MHz) - 32.45)/20)
+# -----------------------------
+def compute_fspl_max_distance_km(freq_mhz, fspl_limit_db):
+    return 10 ** ((fspl_limit_db - 20 * math.log10(freq_mhz) - 32.45) / 20)
 
 # -----------------------------
 # Core coverage computation using bulge + Fresnel approach
@@ -226,16 +235,83 @@ def build_3d_map(center_lat, center_lon, radius_km, elev):
 if __name__ == "__main__":
     print("\n=== Tower Obstacle Detection + Directional Max Coverage ===\n")
 
-    lat = float(input("Enter tower latitude  : "))
-    lon = float(input("Enter tower longitude : "))
-    tower_height = float(input("Enter tower height (m) : "))
-    freq_mhz = float(input("Enter frequency (MHz)  : "))
-    az_step = int(float(input("Azimuth step (degrees, default 1): ") or 1))
-    max_dist_km = float(input("Max distance km (default 10 km): ") or 10.0)
-    sample_m = float(input("Sampling distance meters (default 30m): ") or 30.0)
-    rx_height = float(input("Receiver height (default 1.5m): ") or 1.5)
-    fresnel_fraction = float(input("Fresnel fraction (default 0.6): ") or 0.6)
-    sensitivity_db = float(input("Max acceptable knife-edge loss (dB) (default 25): ") or 25.0)
+    # ---------- Network selection + defaults ----------
+    print("Select Network Type (default profiles available, you can override):")
+    print("1 = 2G  (900 MHz)")
+    print("2 = 3G  (2100 MHz)")
+    print("3 = 4G  (1800 MHz)")
+    print("4 = 5G  (3500 MHz)")
+    print("5 = Custom frequency")
+    choice = input("Enter choice (1–5, default 3): ").strip() or "3"
+
+    # default profile dictionary
+    profiles = {
+        "1": {"name": "2G", "freq_mhz": 900.0,  "fspl_limit_db": 120.0, "tower_height_m": 45.0, "rx_h": 1.5, "fresnel_frac": 0.6},
+        "2": {"name": "3G", "freq_mhz": 2100.0, "fspl_limit_db": 115.0, "tower_height_m": 35.0, "rx_h": 1.5, "fresnel_frac": 0.6},
+        "3": {"name": "4G", "freq_mhz": 1800.0, "fspl_limit_db": 125.0, "tower_height_m": 30.0, "rx_h": 1.5, "fresnel_frac": 0.6},
+        "4": {"name": "5G", "freq_mhz": 3500.0, "fspl_limit_db": 110.0, "tower_height_m": 25.0, "rx_h": 1.5, "fresnel_frac": 0.5},
+    }
+
+    if choice in profiles:
+        prof = profiles[choice]
+        freq_mhz_default = prof["freq_mhz"]
+        fspl_limit_default = prof["fspl_limit_db"]
+        tower_height_default = prof["tower_height_m"]
+        rx_h_default = prof["rx_h"]
+        fresnel_frac_default = prof["fresnel_frac"]
+        network_name = prof["name"]
+    else:
+        # Custom frequency path
+        network_name = "Custom"
+        freq_mhz_default = float(input("Enter custom frequency (MHz): ").strip() or 1800.0)
+        fspl_limit_default = float(input("Enter FSPL limit (dB) (e.g. 120): ").strip() or 120.0)
+        tower_height_default = float(input("Default tower height (m) (suggest 30): ").strip() or 30.0)
+        rx_h_default = float(input("Default receiver height (m) (suggest 1.5): ").strip() or 1.5)
+        fresnel_frac_default = float(input("Default Fresnel fraction (0-1) (suggest 0.6): ").strip() or 0.6)
+
+    # prompt for coordinates and allow user to override profile defaults
+    lat = float(input("Enter tower latitude  : ").strip())
+    lon = float(input("Enter tower longitude : ").strip())
+
+    # tower height (allow override)
+    th_input = input(f"Enter tower height (m) [default {tower_height_default}]: ").strip()
+    tower_height = float(th_input) if th_input else tower_height_default
+
+    # frequency (allow override)
+    f_input = input(f"Enter frequency (MHz) [default {freq_mhz_default} ({network_name})]: ").strip()
+    freq_mhz = float(f_input) if f_input else freq_mhz_default
+
+    # FSPL limit (allow override)
+    fspl_input = input(f"Enter FSPL limit (dB) [default {fspl_limit_default}]: ").strip()
+    fspl_limit = float(fspl_input) if fspl_input else fspl_limit_default
+
+    # compute automatic max distance using FSPL
+    max_dist_km_auto = compute_fspl_max_distance_km(freq_mhz, fspl_limit)
+    # avoid extremely tiny values; enforce a sensible minimum if desired
+    if max_dist_km_auto < 0.1:
+        max_dist_km_auto = 0.1
+
+    print(f"\nAuto-computed max distance based on FSPL: {max_dist_km_auto:.3f} km (freq={freq_mhz} MHz, FSPL={fspl_limit} dB)")
+
+    # rx height (allow override)
+    rx_input = input(f"Receiver height (m) [default {rx_h_default}]: ").strip()
+    rx_height = float(rx_input) if rx_input else rx_h_default
+
+    # fresnel fraction (allow override)
+    fresnel_input = input(f"Fresnel fraction (0-1) [default {fresnel_frac_default}]: ").strip()
+    fresnel_fraction = float(fresnel_input) if fresnel_input else fresnel_frac_default
+
+    # sensitivity (knife-edge loss threshold)
+    sens_input = input("Max acceptable knife-edge loss (dB) (default 25): ").strip()
+    sensitivity_db = float(sens_input) if sens_input else 25.0
+
+    # az step and sampling
+    az_step = int(float(input("Azimuth step (degrees, default 1): ").strip() or 1))
+    sample_m = float(input("Sampling distance meters (default 30m): ").strip() or 30.0)
+
+    # Use auto max distance, but let user override if they want
+    max_dist_input = input(f"Max distance km (computed {max_dist_km_auto:.3f} km). Press Enter to use it or enter custom km: ").strip()
+    max_dist_km = float(max_dist_input) if max_dist_input else max_dist_km_auto
 
     print("\nLoading SRTM elevation data...")
     elev = srtm.get_data()
